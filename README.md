@@ -1,4 +1,10 @@
-### Hi there 👋
+Bem viado ao meu perfil!
+
+Ainda to aprendendo, se quiser ajudar fique a vontade! 👽
+
+# Meus projetinhos
+
+- URL 1
 
 <!--
 **naah-m/naah-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
